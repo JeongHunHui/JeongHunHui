@@ -1,4 +1,4 @@
-### There is Huni Jeong's readme😄
+### There is my readme😄
 
 <!--
 **JeongHunHui/JeongHunHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
