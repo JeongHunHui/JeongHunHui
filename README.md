@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HunHui Jeong</h1>
+<h1 align="center">Hi, I'm HunHui Jeong</h1>
 <h3 align="center">A creative developer who studies constantly</h3>
 <br>
 <p align="left">
