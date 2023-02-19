@@ -2,7 +2,7 @@
 <h3 align="center">A creative developer who studies constantly</h3>
 <br>
 <p align="left">
-</p>
+</p> 
 
 <h3 align="center">Languages and Tools</h3>
 
